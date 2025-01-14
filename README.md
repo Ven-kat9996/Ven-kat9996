@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular 
 - 💞️ I’m looking to collaborate on Scripting.
 - 📫 How to reach me @Ven-kat9996
-- 😄 Pronouns: .He/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
